@@ -1,6 +1,7 @@
 p {
 color: green;
 text-align: center;
+  border: 25px solid navy;
 }
 
 img {
