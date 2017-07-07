@@ -4,5 +4,7 @@ text-align: center;
 }
 
 div {
+  margin: auto;
+  width: 50%;
   border: 25px solid red;
 }
